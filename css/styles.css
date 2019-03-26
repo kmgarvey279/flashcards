@@ -1,7 +1,4 @@
-.flashcard.showAnswer > .answer {
-  display:none;
-}
 
-.flashcard.showQuestion > .question {
-  display:show;
+.answer {
+  display: none;
 }

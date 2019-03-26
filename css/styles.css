@@ -1,58 +1,8 @@
-#initially-showing1 {
+
+.answer {
   display: none;
 }
-
-.clickable1 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable1:hover {
-  text-decoration: underline;
-}
-
-#initially-showing2 {
-  display: none;
-}
-
-.clickable2 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable2:hover {
-  text-decoration: underline;
-}
-
-#initially-showing3 {
-  display: none;
-}
-
-.clickable3 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable3:hover {
-  text-decoration: underline;
-}
-
-#initially-showing4 {
-  display: none;
-}
-
-.clickable4 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable4:hover {
-  text-decoration: underline;
-}
-
-#initially-showing5 {
-  display: none;
-}
+<<<<<<< HEAD
 
 .clickable5 {
   cursor: pointer;
@@ -179,3 +129,5 @@
 .clickable14:hover {
   text-decoration: underline;
 }
+=======
+>>>>>>> flashcards2

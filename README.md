@@ -10,8 +10,8 @@ _A simple HTML page that showcases simple JavaScript and jQuery functionality 03
 - _Open the index.hrml file in your web browser of choice._
 
 ### Specs
-_-Click 'question' to see the definition of any term_
-_-Click the definition to hide it_
+- _Click 'question' to see the definition of any term_
+- _Click the definition to hide it_
 
 
 
@@ -24,10 +24,10 @@ _Please contact me at kmgarvey279@gmail.com if you have any questions or comment
 
 ### Technologies Used
 
-_- HTML_
-_-JavaScript_
-_-jQuery_
-_-CSS_
+- _HTML_
+- _JavaScript_
+- _jQuery_
+- _CSS_
 
 ### License
 
